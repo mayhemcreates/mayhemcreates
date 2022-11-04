@@ -5,7 +5,7 @@
 <p>🧠 Full-stack trained</p>
 <p>👉 Currently learning <b>React.js</b>, <b>Express.js</b> and <b>Tailwind</b></p>
 <p>👌 Digital graphic design skills</p>
-<p>👨‍💻 All of my projects are available <a href="troopl.com/mayhemcreates">here</a></p>
+<p>👨‍💻 All of my projects are available <a href="https://troopl.com/mayhemcreates">here</a></p>
 <p>📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/mayhemcreates/">LinkedIn</a></p>
 <p>✉️ Get in touch by <a href="mayhemcreates@gmail.com" target="_blank">email</a></p>
 <hr>
