@@ -3,7 +3,7 @@
 <hr>
 <p>📆 Available for Front-end Developer work</p> 
 <p>🧠 Full-stack trained</p>
-<p>👉 Currently learning <b>React.js</b></p>
+<p>👉 Currently Junior Front End Developer at Initials CX</b></p>
 <p>👌 Digital graphic design skills</p>
 <p>👨‍💻 All of my projects are available <a href="https://troopl.com/mayhemcreates">here</a></p>
 <p>📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/mayhemcreates/">LinkedIn</a></p>
